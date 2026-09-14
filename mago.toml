@@ -1,0 +1,7 @@
+[formatter]
+print-width = 80
+tab-width = 4
+use-tabs = false
+
+[source]
+paths = ["src", "examples", "tests"]
